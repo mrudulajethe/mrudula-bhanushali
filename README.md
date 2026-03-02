@@ -14,8 +14,14 @@
 Python | SQL | PyTorch | Scikit-learn | Tableau | Power BI | LangChain | FastAPI | Docker
 
 ## 📌 Featured Projects
-- 🔹 [Donna AI – Multi-Agent Investment Banking Assistant](link)
+- 🔹 [Pneumonia Detection System](link)
+- 🔹 [Strategic Expansion for Kimberly-Clark](link)
+- 🔹 [Banking System Management](link)
+- 🔹 [Real Estate Trends Analysis](link)
+- 🔹 [Loan Default Prediction](link)
+- 🔹 [Sentiment Analysis  for Hate Speech](link)
 - 🔹 [Telecom Churn Prediction](link)
+- 🔹 [Cybersecurity Technical Support Instruction Model](link)
 - 🔹 [Credit Risk Classification](link)
 - 🔹 [Smart Doorbell – Computer Vision IoT System](link)
 
