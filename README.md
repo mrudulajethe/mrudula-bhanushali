@@ -17,7 +17,7 @@ Python | SQL | PyTorch | Scikit-learn | Tableau | Power BI | LangChain | FastAPI
 - 🔹 [Pneumonia Detection System](https://github.com/mrudulajethe/Pneumonia-Detection-System.git)
 - 🔹 [Strategic Expansion for Kimberly-Clark](https://github.com/mrudulajethe/Strategic-Expansion-for-Kimberly-Clark.git)
 - 🔹 [Banking System Management](link)
-- 🔹 [Real Estate Trends Analysis](link)
+- 🔹 [Real Estate Trends Analysis](https://github.com/mrudulajethe/Real-Estate-Trends-Analysis.git)
 - 🔹 [Loan Default Prediction](link)
 - 🔹 [Sentiment Analysis  for Hate Speech](link)
 - 🔹 [Telecom Churn Prediction](link)
