@@ -24,7 +24,7 @@ Python | SQL | PyTorch | Scikit-learn | Tableau | Power BI | LangChain | FastAPI
 - 🔹 [Cybersecurity Technical Support Instruction Model](link)
 - 🔹 [Credit Risk Classification](link)
 - 🔹 [Smart Doorbell – Computer Vision IoT System](link)
-- 🔹 [Kanban Board for Task Organization]()
+- 🔹 [Kanban Board for Task Organization](https://github.com/mrudulajethe/kanban-board.git)
 
 ## 📫 Connect With Me
 LinkedIn:  https://www.linkedin.com/in/mrudula-bhanushali/
