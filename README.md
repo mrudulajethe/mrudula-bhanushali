@@ -15,7 +15,7 @@ Python | SQL | PyTorch | Scikit-learn | Tableau | Power BI | LangChain | FastAPI
 
 ## 📌 Featured Projects
 - 🔹 [Pneumonia Detection System](https://github.com/mrudulajethe/Pneumonia-Detection-System.git)
-- 🔹 [Strategic Expansion for Kimberly-Clark](link)
+- 🔹 [Strategic Expansion for Kimberly-Clark](https://github.com/mrudulajethe/Strategic-Expansion-for-Kimberly-Clark.git)
 - 🔹 [Banking System Management](link)
 - 🔹 [Real Estate Trends Analysis](link)
 - 🔹 [Loan Default Prediction](link)
