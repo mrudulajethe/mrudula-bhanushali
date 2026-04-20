@@ -29,9 +29,9 @@ Python | SQL | PyTorch | Scikit-learn | Tableau | Power BI | LangChain | FastAPI
 - 🔹 [Automatic Text Summarization System](https://github.com/mrudulajethe/Automatic-Text-Summarization-System.git)
 - 🔹 [Drug Review Sentiment Analysis](https://github.com/mrudulajethe/Drug-Review-Sentiment-Analysis.git)
 - 🔹 [WeatherWear Slack Alert](https://github.com/mrudulajethe/WeatherWear-Slack-Alert.git)
-- 🔹 [CyberTrend Research Pipeline](link)
+- 🔹 [CyberTrend Research Pipeline](https://github.com/mrudulajethe/CyberTrend-Research-Pipeline.git)
 - 🔹 [FlowScope: Tool-Augmented Financial RAG in Flowise](https://github.com/mrudulajethe/FlowScope-Tool-Augmented-Financial-RAG-in-Flowise.git)
-- 🔹 [Text Emotion Detector using BERT](link)
+- 🔹 [BERTweet Emotion MultiLabel Classifier](link)
 
 ## 📫 Connect With Me
 LinkedIn:  https://www.linkedin.com/in/mrudula-bhanushali/
