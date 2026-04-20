@@ -26,6 +26,12 @@ Python | SQL | PyTorch | Scikit-learn | Tableau | Power BI | LangChain | FastAPI
 - 🔹 [Smart Doorbell – Computer Vision IoT System](https://github.com/mrudulajethe/Smart-Doorbell-Computer-Vision-IoT-System.git)
 - 🔹 [Kanban Board for Task Organization](https://github.com/mrudulajethe/kanban-board.git)
 - 🔹 [Revenue Trend Analysis](https://github.com/mrudulajethe/Revenue-Trend-Analysis.git)
+- 🔹 [Automatic Text Summarization System](link)
+- 🔹 [Drug Review Sentiment Analysis](link)
+- 🔹 [Email Sorting Automation Workflow](link)
+- 🔹 [Market Research Automation](link)
+- 🔹 [RAG-Based Flow with Tool-Augmented Search (Flowise)](link)
+- 🔹 [Text Emotion Detector using BERT](link)
 
 ## 📫 Connect With Me
 LinkedIn:  https://www.linkedin.com/in/mrudula-bhanushali/
