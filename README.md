@@ -23,7 +23,7 @@ Python | SQL | PyTorch | Scikit-learn | Tableau | Power BI | LangChain | FastAPI
 - 🔹 [Telecom Churn Prediction](link)
 - 🔹 [Cybersecurity Technical Support Instruction Model](link)
 - 🔹 [Credit Risk Classification](https://github.com/mrudulajethe/Credit-Risk-Classification.git)
-- 🔹 [Smart Doorbell – Computer Vision IoT System](link)
+- 🔹 [Smart Doorbell – Computer Vision IoT System](https://github.com/mrudulajethe/Smart-Doorbell-Computer-Vision-IoT-System.git)
 - 🔹 [Kanban Board for Task Organization](https://github.com/mrudulajethe/kanban-board.git)
 
 ## 📫 Connect With Me
