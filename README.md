@@ -21,7 +21,7 @@ Python | SQL | PyTorch | Scikit-learn | Tableau | Power BI | LangChain | FastAPI
 - 🔹 [Loan Default Prediction](https://github.com/mrudulajethe/Loan-Default-Prediction.git)
 - 🔹 [Sentiment Analysis  for Hate Speech](https://github.com/mrudulajethe/Sentiment-Analysis-for-Hate-Speech.git)
 - 🔹 [Telecom Churn Prediction](https://github.com/mrudulajethe/Telecom-Churn-Prediction.git)
-- 🔹 [Cybersecurity Technical Support Instruction Model](link)
+- 🔹 [Cybersecurity Technical Support Instruction Model](https://github.com/mrudulajethe/Cybersecurity-Technical-Support-Instruction-Model.git)
 - 🔹 [Credit Risk Classification](https://github.com/mrudulajethe/Credit-Risk-Classification.git)
 - 🔹 [Smart Doorbell – Computer Vision IoT System](https://github.com/mrudulajethe/Smart-Doorbell-Computer-Vision-IoT-System.git)
 - 🔹 [Kanban Board for Task Organization](https://github.com/mrudulajethe/kanban-board.git)
