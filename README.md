@@ -28,9 +28,9 @@ Python | SQL | PyTorch | Scikit-learn | Tableau | Power BI | LangChain | FastAPI
 - 🔹 [Revenue Trend Analysis](https://github.com/mrudulajethe/Revenue-Trend-Analysis.git)
 - 🔹 [Automatic Text Summarization System](https://github.com/mrudulajethe/Automatic-Text-Summarization-System.git)
 - 🔹 [Drug Review Sentiment Analysis](https://github.com/mrudulajethe/Drug-Review-Sentiment-Analysis.git)
-- 🔹 [WeatherWear Slack Alert](link)
+- 🔹 [WeatherWear Slack Alert](https://github.com/mrudulajethe/WeatherWear-Slack-Alert.git)
 - 🔹 [Market Research Automation](link)
-- 🔹 [RAG-Based Flow with Tool-Augmented Search (Flowise)](link)
+- 🔹 [FlowScope: Tool-Augmented Financial RAG in Flowise](link)
 - 🔹 [Text Emotion Detector using BERT](link)
 
 ## 📫 Connect With Me
