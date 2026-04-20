@@ -25,7 +25,7 @@ Python | SQL | PyTorch | Scikit-learn | Tableau | Power BI | LangChain | FastAPI
 - 🔹 [Credit Risk Classification](https://github.com/mrudulajethe/Credit-Risk-Classification.git)
 - 🔹 [Smart Doorbell – Computer Vision IoT System](https://github.com/mrudulajethe/Smart-Doorbell-Computer-Vision-IoT-System.git)
 - 🔹 [Kanban Board for Task Organization](https://github.com/mrudulajethe/kanban-board.git)
-- 🔹 [Revenue Trend Analysis](link)
+- 🔹 [Revenue Trend Analysis](https://github.com/mrudulajethe/Revenue-Trend-Analysis.git)
 
 ## 📫 Connect With Me
 LinkedIn:  https://www.linkedin.com/in/mrudula-bhanushali/
