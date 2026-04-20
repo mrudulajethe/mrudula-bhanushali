@@ -19,7 +19,7 @@ Python | SQL | PyTorch | Scikit-learn | Tableau | Power BI | LangChain | FastAPI
 - 🔹 [Banking System Management](https://github.com/mrudulajethe/Banking-System-Management.git)
 - 🔹 [Real Estate Trends Analysis](https://github.com/mrudulajethe/Real-Estate-Trends-Analysis.git)
 - 🔹 [Loan Default Prediction](link)
-- 🔹 [Sentiment Analysis  for Hate Speech](link)
+- 🔹 [Sentiment Analysis  for Hate Speech](https://github.com/mrudulajethe/Sentiment-Analysis-for-Hate-Speech.git)
 - 🔹 [Telecom Churn Prediction](link)
 - 🔹 [Cybersecurity Technical Support Instruction Model](link)
 - 🔹 [Credit Risk Classification](https://github.com/mrudulajethe/Credit-Risk-Classification.git)
