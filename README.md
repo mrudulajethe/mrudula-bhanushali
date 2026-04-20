@@ -18,11 +18,11 @@ Python | SQL | PyTorch | Scikit-learn | Tableau | Power BI | LangChain | FastAPI
 - 🔹 [Strategic Expansion for Kimberly-Clark](https://github.com/mrudulajethe/Strategic-Expansion-for-Kimberly-Clark.git)
 - 🔹 [Banking System Management](https://github.com/mrudulajethe/Banking-System-Management.git)
 - 🔹 [Real Estate Trends Analysis](https://github.com/mrudulajethe/Real-Estate-Trends-Analysis.git)
-- 🔹 [Loan Default Prediction](https://github.com/mrudulajethe/Loan-Default-Prediction.git)
+- 🔹 [Loan Default Prediction](link)
 - 🔹 [Sentiment Analysis  for Hate Speech](link)
 - 🔹 [Telecom Churn Prediction](link)
 - 🔹 [Cybersecurity Technical Support Instruction Model](link)
-- 🔹 [Credit Risk Classification](link)
+- 🔹 [Credit Risk Classification](https://github.com/mrudulajethe/Loan-Default-Prediction.git)
 - 🔹 [Smart Doorbell – Computer Vision IoT System](link)
 - 🔹 [Kanban Board for Task Organization](https://github.com/mrudulajethe/kanban-board.git)
 
