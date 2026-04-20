@@ -31,7 +31,7 @@ Python | SQL | PyTorch | Scikit-learn | Tableau | Power BI | LangChain | FastAPI
 - 🔹 [WeatherWear Slack Alert](https://github.com/mrudulajethe/WeatherWear-Slack-Alert.git)
 - 🔹 [CyberTrend Research Pipeline](https://github.com/mrudulajethe/CyberTrend-Research-Pipeline.git)
 - 🔹 [FlowScope: Tool-Augmented Financial RAG in Flowise](https://github.com/mrudulajethe/FlowScope-Tool-Augmented-Financial-RAG-in-Flowise.git)
-- 🔹 [BERTweet Emotion MultiLabel Classifier](link)
+- 🔹 [BERTweet Emotion MultiLabel Classifier](https://github.com/mrudulajethe/BERTweet-Emotion-MultiLabel-Classifier.git)
 
 ## 📫 Connect With Me
 LinkedIn:  https://www.linkedin.com/in/mrudula-bhanushali/
