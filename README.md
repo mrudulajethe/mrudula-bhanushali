@@ -32,6 +32,7 @@ Python | SQL | PyTorch | Scikit-learn | Tableau | Power BI | LangChain | FastAPI
 - 🔹 [CyberTrend Research Pipeline](https://github.com/mrudulajethe/CyberTrend-Research-Pipeline.git)
 - 🔹 [FlowScope: Tool-Augmented Financial RAG in Flowise](https://github.com/mrudulajethe/FlowScope-Tool-Augmented-Financial-RAG-in-Flowise.git)
 - 🔹 [BERTweet Emotion MultiLabel Classifier](https://github.com/mrudulajethe/BERTweet-Emotion-MultiLabel-Classifier.git)
+- 🔹 [ML Risk Scoring](https://github.com/mrudulajethe/ML-Risk-Scoring.git)
 
 ## 📫 Connect With Me
 LinkedIn:  https://www.linkedin.com/in/mrudula-bhanushali/
